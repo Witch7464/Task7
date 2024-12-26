@@ -1,0 +1,18 @@
+@media (max-width:500px){
+    .menu-hamburger{
+        display: block;
+        position: absolute;
+        width: 100%; 
+        margin-top: 50px;      
+    }     
+    .header{
+        text-align: center;        
+        margin-bottom: 20px;        
+    }
+    .logo{
+        background: white; 
+        height: 5vh;      
+        font-size: 22px;                    
+     }       
+}
+   
